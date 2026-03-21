@@ -4,7 +4,7 @@ const Index = ({ toggle }) => {
   return (
     <div className="flex flex-wrap justify-evenly items-center h-screen mx-10">
       <div>
-        <img src="/img/dices.png" alt="Dices img" className="index-img" />
+        <img src="/Dice-Game/img/dices.png" alt="Dices img" className="index-img" />
       </div>
 
       <div className="flex flex-col items-end gap-4">

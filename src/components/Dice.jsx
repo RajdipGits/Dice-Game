@@ -5,7 +5,7 @@ const Dice = ({ Genrate, rolldice }) => {
     <div className=" flex justify-center items-center">
       <div className="flex flex-col gap-2 items-center">
         <img
-          src={`/img/dice_${Genrate}.png`}
+          src={`/Dice-Game/img/dice_${Genrate}.png`}
           alt=""
           className="cursor-pointer"
           onClick={rolldice}

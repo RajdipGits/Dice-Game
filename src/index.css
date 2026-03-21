@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+.index-img {
+  animation: UpsideDown 2s ease-in-out infinite alternate;
+}
+
+@keyframes UpsideDown {
+  0% {
+    transform: translateY(10px);
+  }
+  100% {
+    transform: translateY(-10px);
+  }
+}

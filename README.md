@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dice Game (React + Vite)
 
 A browser-based dice guessing game built with React and Vite. Players select a number (1-6) and roll a dice. If the dice result matches the selected number, points are awarded; if not, points are deducted.
@@ -106,3 +107,7 @@ Open `index.html` through Vite dev server and click "Play now" on the landing pa
 
 MIT (or choose your preferred license)
 
+=======
+# Dice-Game
+A browser-based dice guessing game built with React and Vite. Players select a number (1-6) and roll a dice. If the dice result matches the selected number, points are awarded; if not, points are deducted.
+>>>>>>> 6bf93304be7d992391937f8b6308f02801292a50
